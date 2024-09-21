@@ -1,1 +1,1 @@
-# eduction-theme-01
+# education-theme-01
